@@ -8,7 +8,7 @@ FloodGuard is a flood simulation and emergency response platform that predicts f
 
 ## References & Features
 - **[Vanta.js](https://www.vantajs.com/)** for cloud-moving live wallpaper.
-- **[OpenCage API](https://opencage.com/)** for location insights such as latitude and longitude, used in weather prediction and chatbot alerts.
+- **[OpenCage API](https://opencagedata.com/)** for location insights such as latitude and longitude, used in weather prediction and chatbot alerts.
 - **[WeatherAPI](https://www.weatherapi.com/)** for weather/location insights such as temperature, UV index, rainfall, wind speed, etc.
 - **[Vercel](https://vercel.com/)** for hosting and deployment of the app.
 - **[Supabase](https://supabase.com/)** (via Vercel) for backend management and database relations for helpline forms submitted by the public and user authentication.
