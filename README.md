@@ -1,4 +1,4 @@
-# FloodGuard
+# FloodGuard ~ Flood Simulation Model
 
 FloodGuard is a flood simulation and emergency response platform that predicts flood impact and assists in emergency resource allocation.
 
